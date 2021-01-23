@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/okrzyzos/grocery-delivery/static/css/main.ff8ceefb.chunk.css",
+    "main.js": "/okrzyzos/grocery-delivery/static/js/main.00b240da.chunk.js",
+    "main.js.map": "/okrzyzos/grocery-delivery/static/js/main.00b240da.chunk.js.map",
+    "runtime-main.js": "/okrzyzos/grocery-delivery/static/js/runtime-main.75613ef8.js",
+    "runtime-main.js.map": "/okrzyzos/grocery-delivery/static/js/runtime-main.75613ef8.js.map",
+    "static/js/2.a05e73b9.chunk.js": "/okrzyzos/grocery-delivery/static/js/2.a05e73b9.chunk.js",
+    "static/js/2.a05e73b9.chunk.js.map": "/okrzyzos/grocery-delivery/static/js/2.a05e73b9.chunk.js.map",
+    "index.html": "/okrzyzos/grocery-delivery/index.html",
+    "static/css/main.ff8ceefb.chunk.css.map": "/okrzyzos/grocery-delivery/static/css/main.ff8ceefb.chunk.css.map",
+    "static/js/2.a05e73b9.chunk.js.LICENSE.txt": "/okrzyzos/grocery-delivery/static/js/2.a05e73b9.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.75613ef8.js",
+    "static/js/2.a05e73b9.chunk.js",
+    "static/css/main.ff8ceefb.chunk.css",
+    "static/js/main.00b240da.chunk.js"
+  ]
+}
