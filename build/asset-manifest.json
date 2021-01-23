@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/okrzyzos/grocery-delivery/static/css/main.ff8ceefb.chunk.css",
-    "main.js": "/okrzyzos/grocery-delivery/static/js/main.00b240da.chunk.js",
-    "main.js.map": "/okrzyzos/grocery-delivery/static/js/main.00b240da.chunk.js.map",
-    "runtime-main.js": "/okrzyzos/grocery-delivery/static/js/runtime-main.75613ef8.js",
-    "runtime-main.js.map": "/okrzyzos/grocery-delivery/static/js/runtime-main.75613ef8.js.map",
-    "static/js/2.a05e73b9.chunk.js": "/okrzyzos/grocery-delivery/static/js/2.a05e73b9.chunk.js",
-    "static/js/2.a05e73b9.chunk.js.map": "/okrzyzos/grocery-delivery/static/js/2.a05e73b9.chunk.js.map",
-    "index.html": "/okrzyzos/grocery-delivery/index.html",
-    "static/css/main.ff8ceefb.chunk.css.map": "/okrzyzos/grocery-delivery/static/css/main.ff8ceefb.chunk.css.map",
-    "static/js/2.a05e73b9.chunk.js.LICENSE.txt": "/okrzyzos/grocery-delivery/static/js/2.a05e73b9.chunk.js.LICENSE.txt"
+    "main.css": "//github.com/okrzyzos/grocery-delivery.git/static/css/main.ff8ceefb.chunk.css",
+    "main.js": "//github.com/okrzyzos/grocery-delivery.git/static/js/main.57f97847.chunk.js",
+    "main.js.map": "//github.com/okrzyzos/grocery-delivery.git/static/js/main.57f97847.chunk.js.map",
+    "runtime-main.js": "//github.com/okrzyzos/grocery-delivery.git/static/js/runtime-main.2f6f1c45.js",
+    "runtime-main.js.map": "//github.com/okrzyzos/grocery-delivery.git/static/js/runtime-main.2f6f1c45.js.map",
+    "static/js/2.a05e73b9.chunk.js": "//github.com/okrzyzos/grocery-delivery.git/static/js/2.a05e73b9.chunk.js",
+    "static/js/2.a05e73b9.chunk.js.map": "//github.com/okrzyzos/grocery-delivery.git/static/js/2.a05e73b9.chunk.js.map",
+    "index.html": "//github.com/okrzyzos/grocery-delivery.git/index.html",
+    "static/css/main.ff8ceefb.chunk.css.map": "//github.com/okrzyzos/grocery-delivery.git/static/css/main.ff8ceefb.chunk.css.map",
+    "static/js/2.a05e73b9.chunk.js.LICENSE.txt": "//github.com/okrzyzos/grocery-delivery.git/static/js/2.a05e73b9.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.75613ef8.js",
+    "static/js/runtime-main.2f6f1c45.js",
     "static/js/2.a05e73b9.chunk.js",
     "static/css/main.ff8ceefb.chunk.css",
-    "static/js/main.00b240da.chunk.js"
+    "static/js/main.57f97847.chunk.js"
   ]
 }
